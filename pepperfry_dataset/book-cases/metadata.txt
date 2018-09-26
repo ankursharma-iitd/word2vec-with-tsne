@@ -1,0 +1,327 @@
+Category name: book-cases
+Item index: 1
+Item name: Icon Book Case in walnut finish by Royal Oak
+Item url: https://www.pepperfry.com/icon-bookshelf-by-royal-oak-1320683.html?type=search&pos=1:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 49 x W 47 x D 16
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 49.0 inches
+Width: 47.0 inches
+Depth: 16.0 inches
+Sku: FN1320683-P-WH22580
+
+Category name: book-cases
+Item index: 20
+Item name: Lara Wide Book Case in Wenge by HomeTown
+Item url: https://www.pepperfry.com/large-lara-bookcase-in-wenge-by-hometown-1652488.html?type=search&pos=20:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H70 x  W 31.5 x  D 11.7 (all dimensions in inches)
+Weight: 80 KG
+Colour: Wenge
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 70.0 inches
+Width: 32.0 inches
+Depth: 12.0 inches
+Sku: FN1652488-S-PM25358
+
+Category name: book-cases
+Item index: 19
+Item name: Provencal Solid Wood Book Case in White Finish by Amberville
+Item url: https://www.pepperfry.com/provencal-solid-wood-book-case-in-white-finish-by-amberville-1677053.html?type=search&pos=19:1&searchterm=book case&as=1
+Brand: Amberville
+Dimensions: H 72 x W 36 x D 16 (all dimensions in inches)
+Colour: White
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Mango Wood
+Room Type: Living Room
+Collection: Provencal
+Height: 72.0 inches
+Width: 36.0 inches
+Depth: 16.0 inches
+Sku: FM1677053-P-WH25285
+
+Category name: book-cases
+Item index: 18
+Item name: Anitz Solid Wood Book Case In Warm Walnut Finish By Woodsworth
+Item url: https://www.pepperfry.com/anitz-solid-wood-book-case-in-warm-walnut-finish-by-woodsworth-1672685.html?type=search&pos=18:1&searchterm=book case&as=1
+Brand: Woodsworth
+Dimensions: H 70 x W 23 x D 16 (all dimensions in inches)
+Weight: 68 KG
+Colour: Warm Walnut
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Study Room
+Collection: Anitz
+Height: 70.0 inches
+Width: 23.0 inches
+Depth: 16.0 inches
+Sku: FM1672685-P-WH10873
+
+Category name: book-cases
+Item index: 16
+Item name: Clifford Solid Wood Book Case in Honey Oak Finish by Amberville
+Item url: https://www.pepperfry.com/clifford-book-case-in-honey-oak-finish-by-amberville-1605602.html?type=search&pos=16:1&searchterm=book case&as=1
+Brand: Amberville
+Dimensions: H 48 x W 42 x D 16 (all dimensions in inches)
+Colour: Honey Oak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Study Room
+Collection: Clifford
+Height: 48.0 inches
+Width: 42.0 inches
+Depth: 16.0 inches
+Sku: Fm1605602-P-WH10718
+
+Category name: book-cases
+Item index: 15
+Item name: Evergreen Book Case in Wenge Colour by HomeTown
+Item url: https://www.pepperfry.com/evergreen-book-case-in-wenge-colour-by-hometown-1430610.html?type=search&pos=15:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H 70.9 x W 31.5 x D 15.7 (all dimensions in inches)
+Weight: 70 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 70.9 inches
+Width: 31.5 inches
+Depth: 15.7 inches
+Sku: FN1430610-S-PM25358
+
+Category name: book-cases
+Item index: 17
+Item name: Twin Two Door Book Case with with Sliding Doors in Dark Brown Colour by Royal Oak
+Item url: https://www.pepperfry.com/twin-two-door-book-case-in-chocolate-colour-by-royal-oak-1499430.html?type=search&pos=17:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 72.8 x W 31.5 x D 13.7
+Weight: 50.5 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 73.0 inches
+Width: 32.0 inches
+Depth: 14.0 inches
+Sku: FN1499430-S-PM26973
+
+Category name: book-cases
+Item index: 14
+Item name: Kiwi Two Door Book Case in Walnut Finish by Royal Oak
+Item url: https://www.pepperfry.com/kiwi-two-door-book-case-in-walnut-finish-by-royal-oak-1675719.html?type=search&pos=14:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 81.49 x W 31.5 x D 15.7(all dimensions in inches)
+Weight: 55 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 82.0 inches
+Width: 32.0 inches
+Depth: 16.0 inches
+Sku: FN1675719-P-WH22580
+
+Category name: book-cases
+Item index: 13
+Item name: Anne Solid Wood Book Case In Warm Chestnut Finish By Amberville
+Item url: https://www.pepperfry.com/anne-book-case-in-warm-chestnut-finish-by-amberville-1604147.html?type=search&pos=13:1&searchterm=book case&as=1
+Brand: Amberville
+Dimensions: H 42 x W 34 x D 16 (all dimensions in inches)
+Weight: 40.5 KG
+Colour: Warm Chestnut
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Study Room
+Collection: Anne
+Height: 42.0 inches
+Width: 34.0 inches
+Depth: 16.0 inches
+Sku: FM1604147-P-WH10868
+
+Category name: book-cases
+Item index: 10
+Item name: Kiwi Three Door Book Case in Walnut Finish by Royal Oak
+Item url: https://www.pepperfry.com/kiwi-three-door-book-case-in-walnut-finish-by-royal-oak-1675720.html?type=search&pos=10:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 81.49 x W 47.2 x D 15 .7(all dimensions in inches)
+Weight: 74.7 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 82.0 inches
+Width: 48.0 inches
+Depth: 16.0 inches
+Sku: FN1675720-P-WH22580
+
+Category name: book-cases
+Item index: 12
+Item name: Stark Book Case cum Filing Cabinet in Walnut Finish by HomeTown
+Item url: https://www.pepperfry.com/stark-book-case-cum-filing-cabinet-in-walnut-finish-by-hometown-1638825.html?type=search&pos=12:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H 71.3 x W 31.5 x D 16.6
+Weight: 15 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 71.3 inches
+Width: 31.5 inches
+Depth: 16.6 inches
+Seating Height: 35.63
+Sku: FN1638825-S-PM25358
+
+Category name: book-cases
+Item index: 11
+Item name: Holly Bookcase in Walnut Colour by HomeTown
+Item url: https://www.pepperfry.com/holly-bookcase-in-walnut-colour-by-hometown-1386558.html?type=search&pos=11:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H 71 x W 31 x D 16 (all dimensions in inches)
+Weight: 67 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 71.0 inches
+Width: 31.0 inches
+Depth: 16.0 inches
+Sku: FN1386558-S-PM25358
+
+Category name: book-cases
+Item index: 9
+Item name: Lara Bookcase cum Display Unit in Wenge Finish by HomeTown
+Item url: https://www.pepperfry.com/medium-lara-bookcase-in-wenge-by-hometown-1652487.html?type=search&pos=9:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H 70 x  W 23.6 x  D 11.7 (all dimensions in inches)
+Weight: 70 KG
+Colour: Wenge
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 70.0 inches
+Width: 24.0 inches
+Depth: 12.0 inches
+Sku: FN1652487-S-PM25358
+
+Category name: book-cases
+Item index: 7
+Item name: Twin Four Door Book Case  with Sliding Doors in Dark Brown Colour by Royal Oak
+Item url: https://www.pepperfry.com/twin-four-door-book-case-in-chocolate-colour-by-royal-oak-1499431.html?type=search&pos=7:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 72.8 x W 47 x D 13.7 (all dimensions in inches)
+Weight: 63.7 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Living Room
+Height: 73.0 inches
+Width: 47.0 inches
+Depth: 14.0 inches
+Sku: FN1499431-S-PM26973
+
+Category name: book-cases
+Item index: 5
+Item name: Crony Book Case Large in Brown Colour by HomeTown
+Item url: https://www.pepperfry.com/crony-book-case-large-in-brown-colour-by-hometown-1430621.html?type=search&pos=5:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H 69.9 x W 31.5 x D 11.7 (all dimensions in inches)
+Weight: 45 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 69.9 inches
+Width: 31.5 inches
+Depth: 11.7 inches
+Sku: FN1430621-S-PM25358
+
+Category name: book-cases
+Item index: 8
+Item name: Crony Book Case Medium in Brown Colour by HomeTown
+Item url: https://www.pepperfry.com/crony-book-case-medium-in-brown-colour-by-hometown-1430620.html?type=search&pos=8:1&searchterm=book case&as=1
+Brand: HomeTown
+Dimensions: H 70.1 x W 23.6 x D 11.7 (all dimensions in inches)
+Weight: 36 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Engineered Wood
+Room Type: Study Room
+Height: 70.1 inches
+Width: 23.6 inches
+Depth: 11.7 inches
+Sku: FN1430620-S-PM25358
+
+Category name: book-cases
+Item index: 6
+Item name: Amber Three Door Book Case in Honey Brown Brown Colour by Royal Oak
+Item url: https://www.pepperfry.com/amber-three-door-book-case-in-dark-brown-colour-by-royal-oak-1541273.html?type=search&pos=6:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 74.9 x W 47.3 x D 12.6 (all dimensions in inches)
+Weight: 78.6 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Living Room
+Height: 74.9 inches
+Width: 47.3 inches
+Depth: 12.6 inches
+Sku: FN1541273-S-PM26973
+
+Category name: book-cases
+Item index: 3
+Item name: Amber Two Door Book Case in Honey Brown Colour by Royal Oak
+Item url: https://www.pepperfry.com/amber-two-door-book-case-in-chocolate-brown-colour-by-royal-oak-1541272.html?type=search&pos=3:1&searchterm=book case&as=1
+Brand: Royal Oak
+Dimensions: H 74.9 x W 31.5 x D 12.7 (all dimensions in inches)
+Weight: 58 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Living Room
+Height: 74.9 inches
+Width: 31.5 inches
+Depth: 12.7 inches
+Sku: FN1541272-S-PM26973
+
+Category name: book-cases
+Item index: 2
+Item name: Yuko One Door Book Case in Columbia Walnut Finish by Mintwud
+Item url: https://www.pepperfry.com/yuko-one-door-book-case-in-columbia-walnut-colour-by-mintwud-1473783.html?type=search&pos=2:1&searchterm=book case&as=1
+Brand: Mintwud
+Dimensions: H 71.1 x W 23.7 x D 16.5 (all dimensions in inches)
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Study Room
+Collection: YUKO
+Height: 72.0 inches
+Width: 24.0 inches
+Depth: 17.0 inches
+Sku: FN1473783-P-WH5046
+
+Category name: book-cases
+Item index: 4
+Item name: Yuko Four Door Book Case in Columbia Walnut Finish by Mintwud
+Item url: https://www.pepperfry.com/yuko-four-door-book-case-in-columbia-walnut-colour-by-mintwud-1473784.html?type=search&pos=4:1&searchterm=book case&as=1
+Brand: Mintwud
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Study Room
+Collection: YUKO
+Height: 72.0 inches
+Width: 32.0 inches
+Depth: 17.0 inches
+Sku: FN1473784-P-WH5046
+

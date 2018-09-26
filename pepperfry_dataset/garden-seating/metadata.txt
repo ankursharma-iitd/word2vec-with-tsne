@@ -1,0 +1,321 @@
+Category name: garden-seating
+Item index: 20
+Item name: Premium Cushioned Swing Chair in Tricolor Stripe by Hang It
+Item url: https://www.pepperfry.com/premium-cushioned-swing-chair-tricolor-stripe-1586626.html?type=search&pos=20:1&searchterm=garden chairs&as=1
+Brand: Hang It
+Dimensions: 40''W X 50''H
+Weight: 5
+Colour: Multicolour
+Pack Content: Hammock chair; hardware
+Sku: GD1586626-S-PM8457
+
+Category name: garden-seating
+Item index: 19
+Item name: Deluxe Arm Chair in Brown Colour by Italica Furniture
+Item url: https://www.pepperfry.com/deluxe-arm-chair-in-brown-colour-by-italica-furniture-1666887.html?type=search&pos=19:1&searchterm=garden chairs&as=1
+Brand: Italica Furniture
+Dimensions: H 30.9 x W 21.7 x D 17.4; Seating Height-17.3 (all dimensions in inches)
+Weight: 3.16 KG
+Warranty: 24 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Plastic
+Room Type: Outdoor Furniture
+Height: 31.0 inches
+Width: 22.0 inches
+Depth: 18.0 inches
+Seating Height: 17.3
+Sku: FN1666887-P-WH23904
+
+Category name: garden-seating
+Item index: 15
+Item name: Marandoo Grunge Black Outdoor Folding Chair by Bohemiana
+Item url: https://www.pepperfry.com/marandoo-grunge-black-outdoor-folding-chair-by-bohemiana-1458016.html?type=search&pos=15:1&searchterm=garden chairs&as=1
+Brand: Bohemiana
+Dimensions: H 30 x W 15 x D 15 (all dimensions in inches)
+Colour: Black
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Metal
+Room Type: Living Room
+Collection: Back in Black
+Height: 30.0 inches
+Width: 15.0 inches
+Depth: 15.0 inches
+Seating Height: 18
+Sku: FM1458016-P-WH14875
+
+Category name: garden-seating
+Item index: 18
+Item name: Moon Chair in Brown Colour by Royal Oak
+Item url: https://www.pepperfry.com/moon-chair-in-brown-colour-by-royal-oak-1337791.html?type=search&pos=18:1&searchterm=garden chairs&as=1
+Brand: Royal Oak
+Dimensions: H 30 x W 22 x D 21
+Warranty: 12 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Fiber
+Room Type: Outdoor Furniture
+Height: 30.0 inches
+Width: 22.0 inches
+Depth: 21.0 inches
+Sku: FN1337791-S-PM26973
+
+Category name: garden-seating
+Item index: 17
+Item name: Ambatovy Outdoor Chair in Multicolour by Bohemiana
+Item url: https://www.pepperfry.com/ambatovy-outdoor-chair-by-bohemiana-1447020.html?type=search&pos=17:1&searchterm=garden chairs&as=1
+Brand: Bohemiana
+Dimensions: H 28 x W 27 x D 22; Seating Height - 13 (all dimensions in inches)
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Iron
+Room Type: Outdoor Furniture
+Collection: POPular
+Height: 28.0 inches
+Width: 27.0 inches
+Depth: 22.0 inches
+Seating Height: 13
+Sku: FM1447020-P-WH18110
+
+Category name: garden-seating
+Item index: 16
+Item name: Marandoo Grunge Blue Outdoor Folding Chair by Bohemiana
+Item url: https://www.pepperfry.com/marandoo-grunge-blue-outdoor-folding-chair-by-bohemiana-1458013.html?type=search&pos=16:1&searchterm=garden chairs&as=1
+Brand: Bohemiana
+Dimensions: H 30 x W 15 x D 15 (all dimensions in inches)
+Colour: Blue
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Metal
+Room Type: Living Room
+Collection: The Moody Blues
+Height: 30.0 inches
+Width: 15.0 inches
+Depth: 15.0 inches
+Seating Height: 18
+Sku: FM1458013-P-WH14875
+
+Category name: garden-seating
+Item index: 12
+Item name: Molten Antique Victorian Style Garden Outdoor Chair by Karara Mujassme
+Item url: https://www.pepperfry.com/molten-antique-victorian-style-garden-outdoor-chair-by-karara-mujassme-1682567.html?type=search&pos=12:1&searchterm=garden chairs&as=1
+Brand: Karara Mujassme
+Dimensions: H 35 x W 20 x D 20 ; Seating Height: 16.5
+Weight: 5.1 KG
+Assembly: Carpenter Assembly
+Primary Material: Metal
+Room Type: Outdoor Furniture
+Height: 35.0 inches
+Width: 20.0 inches
+Depth: 20.0 inches
+Seating Height: 16.5
+Sku: FN1682567-S-PM10805
+
+Category name: garden-seating
+Item index: 14
+Item name: Bristo Antique Victorian Style Garden Outdoor Chair by Karara Mujassme
+Item url: https://www.pepperfry.com/bristo-antique-victorian-style-garden-outdoor-chair-by-karara-mujassme-1682571.html?type=search&pos=14:1&searchterm=garden chairs&as=1
+Brand: Karara Mujassme
+Dimensions: H 35 x W 22 x D 23 ; Seating Height: 18
+Weight: 6 KG
+Assembly: Carpenter Assembly
+Primary Material: Metal
+Room Type: Outdoor Furniture
+Height: 35.0 inches
+Width: 22.0 inches
+Depth: 23.0 inches
+Seating Height: 18
+Sku: FN1682571-S-PM10805
+
+Category name: garden-seating
+Item index: 13
+Item name: Zenza Antique Victorian Style Garden Outdoor Chair by Karara Mujassme
+Item url: https://www.pepperfry.com/zenza-antique-victorian-style-garden-outdoor-chair-by-karara-mujassme-1682568.html?type=search&pos=13:1&searchterm=garden chairs&as=1
+Brand: Karara Mujassme
+Dimensions: H 35 x W 20 x D 18 ; Seating Height: 17
+Weight: 25.6 KG
+Assembly: Carpenter Assembly
+Primary Material: Metal
+Room Type: Outdoor Furniture
+Height: 35.0 inches
+Width: 20.0 inches
+Depth: 18.0 inches
+Seating Height: 17
+Sku: FN1682568-S-PM10805
+
+Category name: garden-seating
+Item index: 11
+Item name: Marandoo Grunge Red Outdoor Folding Chair by Bohemiana
+Item url: https://www.pepperfry.com/marandoo-grunge-red-outdoor-folding-chair-by-bohemiana-1085528.html?type=search&pos=11:1&searchterm=garden chairs&as=1
+Brand: Bohemiana
+Dimensions: H 30 x W 15 x D 15; Seating Height - 18 (all dimensions in inches)
+Colour: Red
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Metal
+Room Type: Living Room
+Collection: Cafeclectic
+Height: 30.0 inches
+Width: 15.0 inches
+Depth: 15.0 inches
+Seating Height: 18
+Sku: FM1085528-P-WH14875
+
+Category name: garden-seating
+Item index: 10
+Item name: Deluxe Arm Chairs (Set of 2) in Brown Colour by Italica Furniture
+Item url: https://www.pepperfry.com/deluxe-arm-chairs-set-of-2-in-brown-colour-by-italica-furniture-1666888.html?type=search&pos=10:1&searchterm=garden chairs&as=1
+Brand: Italica Furniture
+Dimensions: H 30.9 x W 21.7 x D 17.4; Seating Height-17.3 (all dimensions in inches)
+Weight: 3.16 KG
+Warranty: 24 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Plastic
+Room Type: Outdoor Furniture
+Height: 31.0 inches
+Width: 22.0 inches
+Depth: 18.0 inches
+Seating Height: 17.3
+Sku: FN1666888-P-WH23904
+
+Category name: garden-seating
+Item index: 5
+Item name: Premium Cushioned Swing Chair in Green Stripe by Hang It
+Item url: https://www.pepperfry.com/premium-cushioned-swing-chair-green-stripe-1586625.html?type=search&pos=5:1&searchterm=garden chairs&as=1
+Brand: Hang It
+Dimensions: 40''W X 50''H
+Weight: 5
+Colour: Multicolour
+Pack Content: Hammock chair; hardware
+Sku: GD1586625-S-PM8457
+
+Category name: garden-seating
+Item index: 6
+Item name: Coral Garden Chair in black Color  by Royal Oak
+Item url: https://www.pepperfry.com/coral-garden-chair-by-royal-oak-1683353.html?type=search&pos=6:1&searchterm=garden chairs&as=1
+Brand: Royal Oak
+Dimensions: H 31.5 x W 25.6 x D  26.4 (all dimensions in inches)
+Weight: 5.8 KG
+Warranty: 12 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Metal
+Room Type: Outdoor Furniture
+Height: 32.0 inches
+Width: 26.0 inches
+Depth: 27.0 inches
+Seating Height: 17.5
+Sku: FN1683353-P-WH22580
+
+Category name: garden-seating
+Item index: 8
+Item name: Lisheen Outdoor Iron Chair in Yellow Colour by Bohemiana
+Item url: https://www.pepperfry.com/lisheen-outdoor-iron-chair-in-yellow-color-by-bohemiana-1429650.html?type=search&pos=8:1&searchterm=garden chairs&as=1
+Brand: Bohemiana
+Dimensions: H 35 x W 18 x D 22; Seating Height - 18  (all dimensions in inches)
+Weight: 9.2 KG
+Colour: Yellow
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Iron
+Room Type: Outdoor Furniture
+Collection: Yello Halo
+Height: 35.0 inches
+Width: 18.0 inches
+Depth: 22.0 inches
+Seating Height: 18
+Sku: FM1429650-P-WH12088
+
+Category name: garden-seating
+Item index: 7
+Item name: Amigo Garden Chair by Royal oak
+Item url: https://www.pepperfry.com/amigo-garden-chair-by-royal-oak-1684585.html?type=search&pos=7:1&searchterm=garden chairs&as=1
+Brand: Royal Oak
+Dimensions: H 63 x W 62 x D 35
+Weight: 7.5 KG
+Warranty: 12 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Wicker/Rattan
+Room Type: Outdoor Furniture
+Height: 63.0 inches
+Width: 62.0 inches
+Depth: 35.0 inches
+Sku: FN1684585-P-WH22580
+
+Category name: garden-seating
+Item index: 9
+Item name: Marandoo Grunge Outdoor Folding Chair in Yellow Colour by Bohemiana
+Item url: https://www.pepperfry.com/marandoo-grunge-yellow-outdoor-folding-chair-by-bohemiana-1458015.html?type=search&pos=9:1&searchterm=garden chairs&as=1
+Brand: Bohemiana
+Dimensions: H 30 x W 15 x D 15; Seating Height - 18 (all dimensions in inches)
+Colour: Yellow
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Metal
+Room Type: Living Room
+Collection: Yello Halo
+Height: 30.0 inches
+Width: 15.0 inches
+Depth: 15.0 inches
+Seating Height: 18
+Sku: FM1458015-P-WH14875
+
+Category name: garden-seating
+Item index: 4
+Item name: Outdoor Foldable Chair (Set of 2) in Brown Colour by Aura
+Item url: https://www.pepperfry.com/outdoor-foldable-chair-in-brown-colour-by-aura-1672987.html?type=search&pos=4:1&searchterm=garden chairs&as=1
+Brand: AURA
+Dimensions: H 35.4 x W 16.5 x D 16; Seating Height-17 (all dimensions in inches)
+Weight: 12 KG
+Warranty: 12 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Meranti Wood
+Room Type: Outdoor Furniture
+Height: 36.0 inches
+Width: 17.0 inches
+Depth: 16.0 inches
+Seating Height: 17
+Sku: FN1672987-S-PM25295
+
+Category name: garden-seating
+Item index: 3
+Item name: Foldable Outdoor Relax Chair in Sunrise Stripe by Hang It
+Item url: https://www.pepperfry.com/wooden-deck-beach-chair-sunrise-1586554.html?type=search&pos=3:1&searchterm=garden chairs&as=1
+Brand: Hang It
+Dimensions: 40''D X 25''W X 36''H
+Weight: 8
+Colour: Multicolour
+Pack Content: Chair only
+Sku: GD1586554-S-PM8457
+
+Category name: garden-seating
+Item index: 1
+Item name: Club Chair in Honey Brown Colour by Royal Oak
+Item url: https://www.pepperfry.com/club-chair-in-honey-brown-colour-by-royal-oak-1519102.html?type=search&pos=1:1&searchterm=garden chairs&as=1
+Brand: Royal Oak
+Dimensions: 35 H x 22 W x 22 D; Seating Height - 17 (all dimensions in inches)
+Weight: 5.1 KG
+Warranty: 12 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Aluminium and Wicker Fiber
+Height: 35.0 inches
+Width: 22.0 inches
+Depth: 22.0 inches
+Seating Height: 17
+Sku: FN1519102-S-PM26973
+
+Category name: garden-seating
+Item index: 2
+Item name: Premium Arm Chair in Metallic Brown Colour by Italica Furniture
+Item url: https://www.pepperfry.com/premium-arm-chair-in-metallic-brown-colour-by-italica-furniture-1666885.html?type=search&pos=2:1&searchterm=garden chairs&as=1
+Brand: Italica Furniture
+Dimensions: H 32.7 x W 22.4 x D 17.3; Seating Height-16.7 (all dimensions in inches)
+Weight: 3.48 KG
+Warranty: 24 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Plastic
+Room Type: Living Room
+Height: 33.0 inches
+Width: 23.0 inches
+Depth: 18.0 inches
+Seating Height: 16.7
+Sku: FN1666885-P-WH23904
+

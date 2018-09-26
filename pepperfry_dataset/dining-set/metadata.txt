@@ -1,0 +1,344 @@
+Category name: dining-set
+Item index: 1
+Item name: Yone Four Seater Dining Set in Cappuccino Finish by Mintwud
+Item url: https://www.pepperfry.com/yone-four-seater-dining-set-in-cappuccino-finish-by-mintwud-1664713.html?type=search&pos=1:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29.5 x W 43.3 x D 27.6; Chair : H 39.3 x W 17.7 x D 15.7; Seating Height-16.5 (all dimensions in inches)
+Weight: 34.5 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 39.0 inches
+Width: 44.0 inches
+Depth: 28.0 inches
+Seating Height: 16.5
+Sku: FN1664713-P-WH5046
+
+Category name: dining-set
+Item index: 20
+Item name: Hideyoshi Six Seater Dining Set in Walnut Finish by Mintwud
+Item url: https://www.pepperfry.com/dynasty-six-seater-dining-set-in-walnut-finish-by-mintwud-1351801.html?type=search&pos=20:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29 x W 57 x D 33; Chair : H 39 x W 19 x D 17 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 57.0 inches
+Depth: 33.0 inches
+Seating Capacity: 6 Seater
+Sku: FN1351801-Z-WH5046
+
+Category name: dining-set
+Item index: 18
+Item name: Mia Four Seater Dining Set in Cappuccino Finish by CasaCraft
+Item url: https://www.pepperfry.com/mia-four-seater-dining-set-in-cappuccino-finish-by-casacraft-1645171.html?type=search&pos=18:1&searchterm=dining set&as=0
+Brand: CasaCraft
+Dimensions: Table : H 28.3 x W 47.2 x D 29.5; Chair : H 30.9 x W 17.7 x D 21.8; Seating Height - 17.3 (all dimensions in inches)
+Weight: 40 KG
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Dining Room
+Height: 28.0 inches
+Width: 47.0 inches
+Depth: 30.0 inches
+Seating Height: 17.3
+Sku: FN1645171-P-WH5046
+
+Category name: dining-set
+Item index: 19
+Item name: Milan Four Seater Dining Set in Black Finish by Royal Oak
+Item url: https://www.pepperfry.com/milan-four-seater-dining-set-in-black-finish-by-royal-oak-1451093.html?type=search&pos=19:1&searchterm=dining set&as=0
+Brand: Royal Oak
+Dimensions: Table : H 29.5 x W 51 x D 31; Chair : H 38.4 x W 18 x D 20.4; Seating Height - 18 (all dimensions in inches)
+Weight: 52 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Tempered Glass
+Room Type: Bedroom
+Height: 29.5 inches
+Width: 51.0 inches
+Depth: 31.0 inches
+Seating Capacity: 4 Seater
+Seating Height: 18
+Sku: FN1451093-S-PM26973
+
+Category name: dining-set
+Item index: 17
+Item name: Vento Metal Four Seater Dining Set by HomeTown
+Item url: https://www.pepperfry.com/vento-metal-four-seater-dining-set-by-hometown-1196637.html?type=search&pos=17:1&searchterm=dining set&as=0
+Brand: HomeTown
+Dimensions: Overall: 30 H x 47 W x 28 D (all dimensions in inches)
+Weight: 46 KG
+Colour: Black
+Warranty: 12 Months Brand Warranty
+Assembly: Assembly by Brand
+Primary Material: Metal
+Room Type: Dining Room
+Height: 30.0 inches
+Width: 46.0 inches
+Depth: 28.0 inches
+Sku: FN1196637-S-PM25358
+
+Category name: dining-set
+Item index: 16
+Item name: Artois Four Seater Dining Set with Bench & Two Chairs in Dark Walnut Finish by HomeTown
+Item url: https://www.pepperfry.com/artois-four-seater-dining-set-with-bench-two-chairs-in-dark-walnut-finish-by-hom-1584452.html?type=search&pos=16:1&searchterm=dining set&as=0
+Brand: HomeTown
+Dimensions: Table : H 28.7 x W 47.2 x D 29.5; Chair : H 35.4 x W 15.9 x D 16.9; Bench : H 16.9 x W 35.4 x D 15.7; Seating Height-18 (all dimensions in inches)
+Weight: 36 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 28.7 inches
+Width: 47.2 inches
+Depth: 29.5 inches
+Seating Capacity: 4 Seater
+Seating Height: 18
+Sku: FN1584452-S-PM25358
+
+Category name: dining-set
+Item index: 12
+Item name: Andres Four Seater Dining Set in Wenge Finish by CasaCraft
+Item url: https://www.pepperfry.com/andres-four-seater-dining-set-in-wenge-finish-by-casacraft-1645170.html?type=search&pos=12:1&searchterm=dining set&as=0
+Brand: CasaCraft
+Dimensions: Table : H 28.3 x W 43.3 x D 27.5; Chair : H 35.4 x W 16.5 x D 19.3; Seating Height - 17.3 (all dimensions in inches)
+Weight: 36 KG
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Engineered Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 44.0 inches
+Depth: 28.0 inches
+Seating Height: 17.3
+Sku: FN1645170-P-WH5046
+
+Category name: dining-set
+Item index: 15
+Item name: Daffodil Dining Set Six Seater in Walnut Finish by Royal Oak
+Item url: https://www.pepperfry.com/daffodil-dining-set-six-seater-by-royal-oak-1323766.html?type=search&pos=15:1&searchterm=dining set&as=0
+Brand: Royal Oak
+Dimensions: Table: H 29.5 x W 71 x D 35.5 ; Chair: H 40.5 x W 18 x D 17 (all dimensions in inches)
+Weight: 101.6 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Solid Wood
+Room Type: Dining Room
+Height: 30.0 inches
+Width: 71.0 inches
+Depth: 36.0 inches
+Seating Capacity: 6 Seater
+Seating Height: 18
+Sku: FN1323766-P-WH22580
+
+Category name: dining-set
+Item index: 14
+Item name: Allen Six  Seater Dining Set With Bench in Light Walnut Finish By HomeTown
+Item url: https://www.pepperfry.com/allen-six-seater-dining-set-with-bench-in-light-walnut-finish-by-hometown-1678805.html?type=search&pos=14:1&searchterm=dining set&as=0
+Brand: HomeTown
+Dimensions: Chair: H 33.27 inches x W 15.35 inches x D 12.99 inches ; Bench : H 18.5 inches x W 38.78 inches x D 14.96 inches ; Table: H 30.12 inches  x W 59.06 inches x D 35.43 inches  
+Weight: 64 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 31.0 inches
+Width: 60.0 inches
+Depth: 36.0 inches
+Sku: FN1678805-S-PM25358
+
+Category name: dining-set
+Item index: 11
+Item name: Yoshimi Four Seater Dining Set by Mintwud
+Item url: https://www.pepperfry.com/yoshimi-four-seater-dining-set-by-mintwud-1654027.html?type=search&pos=11:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29.5 x W 43.3 x D 31.4; Chair : H 39.3 x W 17.4 x D 19; Seating Height-16.5 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 30.0 inches
+Width: 44.0 inches
+Depth: 32.0 inches
+Sku: FN1654027-P-WH5046
+
+Category name: dining-set
+Item index: 10
+Item name: Moe Four Seater Dining Set in Wenge Finish by Mintwud
+Item url: https://www.pepperfry.com/four-seater-dining-set-in-wenge-finish-by-mintwud-1191605.html?type=search&pos=10:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29 x W 45 x D 27; Chair : H 38 x W 17 x D 19; Seating Height : 18 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 45.0 inches
+Depth: 27.0 inches
+Seating Capacity: 4 Seater
+Assembly Instructions:
+                                         
+                                    
+Seating Height: 18
+Sku: FN1191605-Z-WH5046
+
+Category name: dining-set
+Item index: 9
+Item name: Allen Four Seater Dining Set With Bench in Light Walnut Finish By HomeTown
+Item url: https://www.pepperfry.com/allen-four-seater-dining-set-with-bench-in-light-walnut-finish-by-hometown-1678808.html?type=search&pos=9:1&searchterm=dining set&as=0
+Brand: HomeTown
+Dimensions: Chair: H 33.27 inches x W 15.35 inches x D 12.99 inches ; Bench : H 18.5 inches x W 38.78 inches x D 14.96 inches ; Table: H 30.12 inches  x W 47.24 inches x D 31.5 inches  
+Weight: 52 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 31.0 inches
+Width: 48.0 inches
+Depth: 32.0 inches
+Sku: FN1678808-S-PM25358
+
+Category name: dining-set
+Item index: 8
+Item name: Momoko Six Seater Dining Set in Walnut Finish by Mintwud
+Item url: https://www.pepperfry.com/six-seater-dining-set-in-walnut-finish-by-mintwud-1191608.html?type=search&pos=8:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Chair : H 38 x W 17 x D 19; Table : H 29 x W 57 x D 33; Seating Height : 18 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 57.0 inches
+Depth: 33.0 inches
+Seating Height: 18
+Sku: FN1191608-Z-WH5046
+
+Category name: dining-set
+Item index: 13
+Item name: Dorset Four Seater Dining Set in Dual Tone Finish by Parin
+Item url: https://www.pepperfry.com/dorset-four-seater-dining-set-in-dual-tone-finish-by-parin-1648632.html?type=search&pos=13:1&searchterm=dining set&as=0
+Brand: Parin
+Dimensions: Table : H 29 x W 47 x D 29; Chair:H 35 x W 17.5 X D 17.5; Seating height :17 (all dimensions in inches)
+Weight: 44.4 KG
+Colour: Dual Tone
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 47.0 inches
+Depth: 29.0 inches
+Sku: FN1648632-P-WH11070
+
+Category name: dining-set
+Item index: 7
+Item name: Danish Four Seater Dining Set in Chocolate Finish by @home
+Item url: https://www.pepperfry.com/danish-four-seater-dining-set-in-chocolate-finish-by-home-1641932.html?type=search&pos=7:1&searchterm=dining set&as=0
+Brand: @home
+Dimensions: Table : H 29.5 x W 43.3 x D 27.5; Chair : H 33.7 x W 16.1 x D 20.3; Seating Height-15.7 (all dimensions in inches)
+Weight: 92 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Metal
+Room Type: Dining Room
+Height: 30.0 inches
+Width: 44.0 inches
+Depth: 28.0 inches
+Seating Height: 15.7
+Sku: FN1641932-S-PM3569
+
+Category name: dining-set
+Item index: 6
+Item name: Moe Four Seater Dining Set in Walnut Finish by Mintwud
+Item url: https://www.pepperfry.com/four-seater-dining-set-in-walnut-finish-by-mintwud-1191606.html?type=search&pos=6:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29 x W 45 x D 27; Chair : H 38 x W 17 x D 19; Seating Height - 18 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 45.0 inches
+Depth: 27.0 inches
+Assembly Instructions:
+                                         
+                                    
+Seating Height: 18
+Sku: FN1191606-Z-WH5046
+
+Category name: dining-set
+Item index: 5
+Item name: Momoko Six Seater Dining Set in Wenge Finish by Mintwud
+Item url: https://www.pepperfry.com/momoko-six-seater-dining-set-in-wenge-finish-by-mintwud-1191607.html?type=search&pos=5:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29 x W 57 x D 33; Chair : H 38 x W 17 x D 19; Seating Height : 18 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 57.0 inches
+Depth: 33.0 inches
+Seating Height: 18
+Sku: FN1191607-Z-WH5046
+
+Category name: dining-set
+Item index: 4
+Item name: Mariko Four Seater Dining Set in Wenge Finish by Mintwud
+Item url: https://www.pepperfry.com/four-seater-dining-set-in-wenge-finish-by-mintwud-1191603.html?type=search&pos=4:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Chair : H 38 x W 17 x D 19; Table : H 29 x W 45 x D 27; Seating Height : 18 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 45.0 inches
+Depth: 27.0 inches
+Assembly Instructions:
+                                         
+                                    
+Seating Height: 18
+Sku: FN1191603-Z-WH5046
+
+Category name: dining-set
+Item index: 3
+Item name: Mariko Six Seater Dining Set in Walnut Finish by Mintwud
+Item url: https://www.pepperfry.com/mariko-six-seater-dining-set-in-walnut-finish-by-mintwud-1191604.html?type=search&pos=3:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Chair : H 38 x W 17 x D 19; Table : H 29 x W 57 x D 33; Seating Height : 18 (all dimensions in inches)
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 29.0 inches
+Width: 57.0 inches
+Depth: 33.0 inches
+Assembly Instructions:
+                                         
+                                    
+Seating Height: 18
+Sku: FN1191604-Z-WH5046
+
+Category name: dining-set
+Item index: 2
+Item name: Yung Four Seater Dining Set in Cappuccino Finish by Mintwud
+Item url: https://www.pepperfry.com/yung-four-seater-dining-set-in-cappuccino-finish-by-mintwud-1664712.html?type=search&pos=2:1&searchterm=dining set&as=0
+Brand: Mintwud
+Dimensions: Table : H 29.5 x W 43.3 x D 27.6; Chair : H 39.3 x W 17.7 x D 15.7; Seating Height-16.5 (all dimensions in inches)
+Weight: 34.5 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Rubber Wood
+Room Type: Dining Room
+Height: 39.0 inches
+Width: 44.0 inches
+Depth: 28.0 inches
+Seating Height: 16.5
+Sku: FN1664712-P-WH5046
+

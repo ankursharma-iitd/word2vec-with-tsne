@@ -1,0 +1,351 @@
+Category name: arm-chairs
+Item index: 10
+Item name: Colette Accent Chair in Brown Colour by Peachtree
+Item url: https://www.pepperfry.com/colette-accent-chair-in-brown-colour-by-peachtree-1621042.html?type=search&pos=10:1&searchterm=Arm Chairs&as=1
+Brand: Peachtree
+Dimensions: H 39.4 x W 35.4 x D 31.5; Seating Height-17 (all dimensions in inches)
+Weight: 32 KG
+Warranty: 12 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Fabric
+Room Type: Living Room
+Height: 40.0 inches
+Width: 36.0 inches
+Depth: 32.0 inches
+Seating Height: 17
+Sku: FN1621042-S-PM21699
+
+Category name: arm-chairs
+Item index: 7
+Item name: Kryss Solid Wood Arm Chair in Provincial Teak Finish by Woodsworth
+Item url: https://www.pepperfry.com/kryss-arm-chair-in-provincial-teak-finish-by-woodsworth-1610146.html?type=search&pos=7:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 39 x W 24 x D 18 (all dimensions in inches)
+Colour: Provincial Teak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Collection: Kryss
+Height: 39.0 inches
+Width: 24.0 inches
+Depth: 18.0 inches
+Sku: Fm1610146-P-WH2203
+
+Category name: arm-chairs
+Item index: 8
+Item name: Stalley Solid Wood Arm Chair in Green Upholstery in Warm Chestnut Finish by Amberville
+Item url: https://www.pepperfry.com/stalley-solid-wood-arm-chair-in-green-upholstery-in-warm-chestnut-finish-by-amber-1666475.html?type=search&pos=8:1&searchterm=Arm Chairs&as=1
+Brand: Amberville
+Dimensions: H 29 x W 24.5 x D 24; Seating Height - 18 (all dimensions in inches)
+Weight: 8 KG
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 29.0 inches
+Width: 24.5 inches
+Depth: 24.0 inches
+Seating Height: 18
+Sku: FM1666475-P-WH7173
+
+Category name: arm-chairs
+Item index: 20
+Item name: Elegant Solid Wood Upholstered Armchair in Teak Finish by Woodsworth
+Item url: https://www.pepperfry.com/elegant-upholstered-armchair-in-teak-finish-by-woodsworth-1666472.html?type=search&pos=20:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 29.5 x W 20 x D 21; Seating Height - 18 (all dimensions in inches)
+Weight: 8.5 KG
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 30.0 inches
+Width: 20.0 inches
+Depth: 21.0 inches
+Seating Height: 18
+Sku: FM1666472-P-WH8833
+
+Category name: arm-chairs
+Item index: 9
+Item name: Zenith Solid Wood Arm Chair in Honey Oak Finish by Amberville
+Item url: https://www.pepperfry.com/solid-wood-arm-chair-in-honey-oak-finish-by-amberville-1674761.html?type=search&pos=9:1&searchterm=Arm Chairs&as=1
+Brand: Amberville
+Dimensions: H 40.5 x W 20.25 x D 19; Seating Height-19 (all dimensions in inches)
+Weight: 11.5 KG
+Colour: Honey Oak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 41.0 inches
+Width: 21.0 inches
+Depth: 19.0 inches
+Seating Height: 19
+Sku: FM1674761-P-WH8833
+
+Category name: arm-chairs
+Item index: 19
+Item name: Deluxe Arm Chairs (Set of 2) in Brown Colour by Italica Furniture
+Item url: https://www.pepperfry.com/deluxe-arm-chairs-set-of-2-in-brown-colour-by-italica-furniture-1666888.html?type=search&pos=19:1&searchterm=Arm Chairs&as=1
+Brand: Italica Furniture
+Dimensions: H 30.9 x W 21.7 x D 17.4; Seating Height-17.3 (all dimensions in inches)
+Weight: 3.16 KG
+Warranty: 24 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Plastic
+Room Type: Outdoor Furniture
+Height: 31.0 inches
+Width: 22.0 inches
+Depth: 18.0 inches
+Seating Height: 17.3
+Sku: FN1666888-P-WH23904
+
+Category name: arm-chairs
+Item index: 18
+Item name: Stalley Solid Wood Arm Chair with Brown Uphosltery in Honey Oak Finish by Amberville
+Item url: https://www.pepperfry.com/stalley-arm-chair-with-brown-uphosltery-in-honey-oak-finish-by-amberville-1666473.html?type=search&pos=18:1&searchterm=Arm Chairs&as=1
+Brand: Amberville
+Dimensions: H 29 x W 24 x D 20; Seating Height - 18 (all dimensions in inches)
+Weight: 8 KG
+Colour: Honey Oak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 29.0 inches
+Width: 24.0 inches
+Depth: 20.0 inches
+Seating Height: 18
+Sku: FM1666473-P-WH7173
+
+Category name: arm-chairs
+Item index: 17
+Item name: Oriel Solid Wood Arm Chair in Provincial Teak Finish by Woodsworth
+Item url: https://www.pepperfry.com/oriel-arm-chair-in-provincial-teak-finish-by-woodsworth-1595833.html?type=search&pos=17:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 39.4 x W 23.8 x D 20 (all dimensions in inches)
+Weight: 12.4 KG
+Colour: Provincial Teak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Collection: ORIEL
+Height: 39.4 inches
+Width: 23.8 inches
+Depth: 20.0 inches
+Seating Height: 17.9
+Sku: Fm1595833-P-WH21248
+
+Category name: arm-chairs
+Item index: 16
+Item name: Lugo High Back Accent cum Lounge Chair in Brown Floral Design by MintHomez
+Item url: https://www.pepperfry.com/lugo-high-back-accent-cum-lounge-chair-in-brown-floral-design-by-minthomez-1668950.html?type=search&pos=16:1&searchterm=Arm Chairs&as=1
+Brand: MintHomez
+Dimensions: H 35.5 x W 26.5 x D 26; Seating Height-18 (all dimensions in inches)
+Weight: 10.5 KG
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Fabric
+Room Type: Living Room
+Height: 36.0 inches
+Width: 27.0 inches
+Depth: 26.0 inches
+Seating Height: 18
+Sku: FN1668950-S-PM9268
+
+Category name: arm-chairs
+Item index: 15
+Item name: Alicia Modern Tufted Chair In Blue Colour By Dreamzz Furniture
+Item url: https://www.pepperfry.com/alicia-modern-tufted-chair-in-blue-colour-by-dreamzz-furniture-1654899.html?type=search&pos=15:1&searchterm=Arm Chairs&as=1
+Brand: Dreamzz Furniture
+Dimensions: H 40 x W 30 x D 29 ; Seating Height: 16 (all dimensions in inches)
+Weight: 18 KG
+Colour: Blue
+Assembly: Carpenter Assembly
+Primary Material: Teak Wood
+Room Type: Living Room
+Height: 40.0 inches
+Width: 30.0 inches
+Depth: 29.0 inches
+Seating Height: 16
+Sku: FN1654899-S-PM22933
+
+Category name: arm-chairs
+Item index: 12
+Item name: Aura Solid Wood Arm Chair with Cushioned Seat in Provincial Teak Finish by Woodsworth
+Item url: https://www.pepperfry.com/aura-arm-chair-with-cream-cushion-provincial-teak-finish-by-woodsworth-1671642.html?type=search&pos=12:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 36 x W 24 x D 21 (all dimensions in inches)
+Weight: 22 KG
+Colour: Provincial Teak
+Warranty: 36 Months' Warranty
+Assembly: Carpenter Assembly
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Collection: Aura
+Height: 36.0 inches
+Width: 24.0 inches
+Depth: 21.0 inches
+Seating Height: 18
+Sku: FM1671642-P-WH19706
+
+Category name: arm-chairs
+Item index: 13
+Item name: Stigen Solid Wood Arm Chair in Warm Chestnut Finish by Woodsworth
+Item url: https://www.pepperfry.com/stigen-arm-chair-in-warm-chestnut-finish-by-woodsworth-1605330.html?type=search&pos=13:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 39 x W 21 x D 22; Seating Height - 19 (all dimensions in inches)
+Colour: Warm Chestnut
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Collection: Stigen
+Height: 39.0 inches
+Width: 21.0 inches
+Depth: 22.0 inches
+Seating Height: 19
+Sku: FM1605330-P-WH2194
+
+Category name: arm-chairs
+Item index: 14
+Item name: Avian Solid Wood Arm Chair in Warm Chestnut Finish by Woodsworth
+Item url: https://www.pepperfry.com/avian-arm-chair-in-warm-chestnut-finish-by-woodsworth-1596923.html?type=search&pos=14:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 26 x W 26 x D 26 (all dimensions in inches)
+Weight: 30 KG
+Colour: Warm Chestnut
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Collection: Avian
+Height: 26.0 inches
+Width: 26.0 inches
+Depth: 26.0 inches
+Seating Height: 17
+Sku: Fm1596923-P-WH8834
+
+Category name: arm-chairs
+Item index: 11
+Item name: Stalley Solid Wood Arm Chair with White & Brown Uphosltery in Provincial Teak Finish by Amberville
+Item url: https://www.pepperfry.com/stalley-solid-wood-arm-chair-with-white-brown-uphosltery-in-provincial-teak-fini-1666476.html?type=search&pos=11:1&searchterm=Arm Chairs&as=1
+Brand: Amberville
+Dimensions: H 29 x W 24.5 x D 24; Seating Height - 18 (all dimensions in inches)
+Weight: 8 KG
+Colour: Provincial Teak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 29.0 inches
+Width: 24.5 inches
+Depth: 24.0 inches
+Seating Height: 18
+Sku: FM1666476-P-WH7173
+
+Category name: arm-chairs
+Item index: 6
+Item name: Nero Relaxing Arm Chair in Beige Colour by HomeTown
+Item url: https://www.pepperfry.com/nero-chair-in-beige-colour-by-hometown-1259860.html?type=search&pos=6:1&searchterm=Arm Chairs&as=1
+Brand: HomeTown
+Dimensions: Overall: 40 H x 26 W x 31 D (all dimensions in inches)
+Weight: 7 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Fabric
+Room Type: Living Room
+Height: 40.0 inches
+Width: 26.0 inches
+Depth: 31.0 inches
+Sku: FN1259860-S-PM25358
+
+Category name: arm-chairs
+Item index: 5
+Item name: Stalley Solid Wood Arm Chair with Grey Upholstery in Honey Oak Finish by Amberville
+Item url: https://www.pepperfry.com/stalley-solid-wood-arm-chair-with-grey-upholstery-in-honey-oak-finish-by-ambervil-1666474.html?type=search&pos=5:1&searchterm=Arm Chairs&as=1
+Brand: Amberville
+Dimensions: H 29 x W 24.5 x D 24; Seating Height - 18 (all dimensions in inches)
+Weight: 8 KG
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 29.0 inches
+Width: 24.5 inches
+Depth: 24.0 inches
+Seating Height: 18
+Sku: FM1666474-P-WH7173
+
+Category name: arm-chairs
+Item index: 4
+Item name: Abbey Solid Wood Arm Chair in Provincial Teak Finish by Woodsworth
+Item url: https://www.pepperfry.com/abbey-arm-chair-in-provincial-teak-finish-by-woodsworth-1597073.html?type=search&pos=4:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 40 x W 23 x D 21 (all dimensions in inches)
+Weight: 12.06 KG
+Colour: Provincial Teak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Collection: Abbey
+Height: 40.0 inches
+Width: 23.0 inches
+Depth: 21.0 inches
+Sku: Fm1597073-P-WH10719
+
+Category name: arm-chairs
+Item index: 3
+Item name: Zinnia Arm Chair in Beige Colour by @home
+Item url: https://www.pepperfry.com/zinnia-accent-chair-in-beige-colour-by-home-1537736.html?type=search&pos=3:1&searchterm=Arm Chairs&as=1
+Brand: @home
+Dimensions: H 34 x W 25.6 x D 25; Seating Height-19.3 (all dimensions in inches)
+Weight: 19 KG
+Warranty: 12 Months' Warranty
+Assembly: Assembly by Brand
+Primary Material: Rubber Wood
+Room Type: Living Room
+Height: 34.0 inches
+Width: 25.6 inches
+Depth: 25.0 inches
+Seating Height: 19.3
+Sku: FN1537736-S-PM3569
+
+Category name: arm-chairs
+Item index: 2
+Item name: William Solid Wood Arm Chair in Provincial Teak Finish by Amberville
+Item url: https://www.pepperfry.com/william-arm-chair-in-provincial-teak-finish-by-amberville-1357148.html?type=search&pos=2:1&searchterm=Arm Chairs&as=1
+Brand: Amberville
+Dimensions: H 23 x W 30 x D 18; Seating Height - 14  (all dimensions in inches)
+Weight: 10 KG
+Colour: Provincial Teak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 23.0 inches
+Width: 30.0 inches
+Depth: 18.0 inches
+Seating Height: 14
+Sku: FM1357148-P-WH2203
+
+Category name: arm-chairs
+Item index: 1
+Item name: Esvelt Solid Wood Arm Chair in Honey Oak Finish by Woodsworth
+Item url: https://www.pepperfry.com/esvelt-arm-chair-in-honey-oak-finish-by-woodsworth-1614824.html?type=search&pos=1:1&searchterm=Arm Chairs&as=1
+Brand: Woodsworth
+Dimensions: H 30 x W 22 x D 17 (all dimensions in inches)
+Colour: Honey Oak
+Warranty: 36 Months' Warranty
+Assembly: No Assembly Required
+Primary Material: Sheesham Wood
+Room Type: Living Room
+Height: 30.0 inches
+Width: 22.0 inches
+Depth: 17.0 inches
+Seating Height: 19.000
+Sku: FM1614824-P-WH8833
+
